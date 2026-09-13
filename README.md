@@ -52,4 +52,4 @@ capstone-project/
 [Summarize key results, metrics, and findings here once available.]
 
 ## Author
-[D.G.S.M.Shirantha / Index no.-268496U / masters of datascience and artificial intelligence ]
+[D.G.S.M.Shirantha / Index no.-268496U / Masters of datascience and artificial intelligence University Of Moratuwa.Department of computer science and engineering.]
